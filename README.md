@@ -1,4 +1,4 @@
-# AWS Resource Listing Script
+# AWS Active Resource Listing Script
 
 A Bash script to list various AWS resources by region using the AWS Command Line Interface (CLI).
 
