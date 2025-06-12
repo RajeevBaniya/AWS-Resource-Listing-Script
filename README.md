@@ -6,7 +6,7 @@ A Bash script to list various AWS resources by region using the AWS Command Line
 
 ## 👤 Author
 
-**Rajeev Baniya**  
+**RJB**  
 Version: `v0.0.1`
 
 ---
